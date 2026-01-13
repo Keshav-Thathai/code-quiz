@@ -9,7 +9,7 @@ body{
     background:"white";
     padding: 30px;
     width: 320px;
-    border-end-end-radius: 30px;
+    border-radius: 30%;
     text-align: center;
 }
 .option{
@@ -25,4 +25,5 @@ body{
 .option:hover{
     
     background:grey;
+
 }
